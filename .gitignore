@@ -1,0 +1,3 @@
+/node_modules
+/build
+git branch --set-upstream-to origin/solaris
